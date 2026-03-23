@@ -1,5 +1,5 @@
 ## SHOP UI PROJECT
 ## Team members:
 
-## Jude
-## Trent
+## Jude Bellingham
+## Trent Alexander-Arnold
